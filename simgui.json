@@ -1,0 +1,24 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/SmartDashboard/Calibrate Offsets": "Command",
+      "/SmartDashboard/Change Neutral": "Command",
+      "/SmartDashboard/Field": "Field2d",
+      "/SmartDashboard/Scheduler": "Scheduler",
+      "/SmartDashboard/SendableChooser[0]": "String Chooser",
+      "/SmartDashboard/Trajectory": "Field2d",
+      "/SmartDashboard/Zero Angle": "Command"
+    }
+  },
+  "NetworkTables": {
+    "transitory": {
+      "SmartDashboard": {
+        "Gripper": {
+          "open": true
+        },
+        "open": true
+      }
+    }
+  }
+}
